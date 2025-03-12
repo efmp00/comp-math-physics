@@ -6,18 +6,18 @@ This is a repository I created to track my computational and numerical approache
 
 and possibly other programming languages. Please, let me know if you have any suggestions or comments for (potential) improvements. The topics covered so far are the following:
 
-##### Classical physics
-- [] Classical mechanics
-- [] Classical optics
+#### Classical physics
+- [ ] Classical mechanics
+- [ ] Classical optics
 
-##### Modern physics
-- [] Quantum mechanics.
-- [] Quantum information.
+#### Modern physics
+- [ ] Quantum mechanics.
+- [ ] Quantum information.
 - [x] Atomic physics.
-- [] Solid-state physics.
+- [ ] Solid-state physics.
 
-##### Applied physics
-- [] Quantum circuits
+#### Applied physics
+- [ ] Quantum circuits
 
 > [!NOTE]
 > The code uploaded in this repository is mainly written in Python 3.10.12.
