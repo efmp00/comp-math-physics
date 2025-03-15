@@ -7,8 +7,8 @@ This is a repository I created to track my computational and numerical approache
 and possibly other programming languages. Please, let me know if you have any suggestions or comments for (potential) improvements. The topics covered so far are the following:
 
 #### Classical physics
-- [ ] Classical mechanics.
-- [ ] Classical optics.
+- [x] Classical mechanics.
+- [x] Classical optics.
 
 #### Modern physics
 - [ ] Quantum mechanics.
