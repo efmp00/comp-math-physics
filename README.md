@@ -12,7 +12,7 @@ and possibly other programming languages. Please, let me know if you have any su
 
 #### Modern physics
 - [ ] Quantum mechanics.
-- [ ] Quantum information.
+- [x] Quantum information.
 - [x] Atomic physics.
 - [ ] Solid-state physics.
 
